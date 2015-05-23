@@ -765,6 +765,31 @@ ul.social-buttons li a:active {
     background-color: #5ce010;
 }
 
+ul.social-buttons-inverse {
+    margin-bottom: 0;
+}
+
+ul.social-buttons-inverse li a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    color: #fff;
+    background-color: #5ce010;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+ul.social-buttons-inverse li a:hover,
+ul.social-buttons-inverse li a:focus,
+ul.social-buttons-inverse li a:active {
+    background-color: #398a0a;
+}
+
 .btn:focus,
 .btn:active,
 .btn.active,
