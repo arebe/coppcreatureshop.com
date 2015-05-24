@@ -679,6 +679,17 @@ section#contact .section-heading {
     color: #fff;
 }
 
+section#contact .contact-text{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 26px;
+    font-style: italic;
+    line-height: 30px;
+    color:#fff;
+    text-align: center;
+}
+
 section#contact .form-group {
     margin-bottom: 25px;
 }
